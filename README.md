@@ -1,1 +1,2 @@
-# diamond_dilemma
+## The Diamond Dilemma 
+I created this project after seeing a newspaper ad promoting natural diamonds (NDs), which compared them to luxury items like wine, Banarsi saree and the Taj Mahal. This made me curious about the need for such advertising, so I decided to explore the market dynamics between natural and lab-grown diamonds (LGDs). I performed web scraping on YouTube comments to analyze consumer sentiment and conducted sentiment analysis to assess public opinions. Additionally, I gathered pricing data from jewelry companies selling NDs and LGDs respectively. The results revealed key insights into consumer preferences and the price gap between the two types.
